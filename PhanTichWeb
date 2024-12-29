@@ -1,0 +1,29 @@
+1. Phân tích -> OK
+    1.1. Header
+    1.2. Slider
+    1.3. Content
+        1.3.1. About
+        1.3.2. Contact
+        1.3.3. Image
+    1.4. Banner
+    1.5. Footer
+
+1. Từ ngoài vào trong
+2. Từ trên xuống dưới
+3. Tổng quan đến chi tiết
+
+1. Vị trí
+2. Kích thước (widht, height)
+3. Màu sắc
+4. Kiểu dáng(Kiểu chữ, hình,...)
+
+#0B0C10
+#1F2833
+#C5C6C7
+#66FCF1
+#45A29E
+#FFFFFF
+
+PC >= 1024px
+Tablet >= 740px & < 1024px
+Mobile < 740px
